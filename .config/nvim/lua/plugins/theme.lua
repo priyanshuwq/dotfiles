@@ -1,0 +1,1 @@
+/home/pss/.config/omarchy/current/theme/neovim.lua
